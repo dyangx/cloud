@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../micro_movies/micro_movies.iml" filepath="$PROJECT_DIR$/../micro_movies/micro_movies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro_parent.iml" filepath="$PROJECT_DIR$/micro_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../micro_user/micro_user.iml" filepath="$PROJECT_DIR$/../micro_user/micro_user.iml" />
+    </modules>
+  </component>
+</project>
