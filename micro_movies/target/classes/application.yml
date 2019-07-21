@@ -7,7 +7,7 @@ logging:
 spring:
   jackson:
     serialization:
-      indent-output: true   #json格式化
+      indent-output: true
   datasource:
     url: jdbc:mysql://localhost:3306/cloud?serverTimezone=CTT&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true
     username: root
@@ -16,7 +16,7 @@ spring:
 info:
   app:
       name:
-        @project.artifactId@
+        micro_movies
       java:
-        source:@java.version@
-        target:@java.version@
+        source:1.8.0_151
+        target:1.8.0_151
